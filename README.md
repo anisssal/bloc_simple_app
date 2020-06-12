@@ -1,6 +1,6 @@
-# blocsimpleapp
+# simple bloc app
 
-A new Flutter application.
+Flutter simple bloc from scratch
 
 ## Getting Started
 
